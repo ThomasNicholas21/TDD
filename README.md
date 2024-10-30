@@ -80,3 +80,5 @@ O projeto está organizado em um repositório com a seguinte estrutura:
 ## Considerações
 
 Este projeto demonstra o uso do TDD em Python com a biblioteca `pytest`, incluindo a importância do isolamento de ambiente com `venv`. Ele oferece uma base sólida para entender a abordagem iterativa do TDD com foco na qualidade e manutenção do código.
+
+Requirementes: [Clique aqui](https://github.com/ThomasNicholas21/TDD/blob/master/requirements.txt)
