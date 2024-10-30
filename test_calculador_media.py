@@ -1,4 +1,5 @@
 import pytest
+from calculador_media import calcula_media
 
 def test_calcula_media_basico():
     """Teste básico com valores comuns para calcular a média."""
