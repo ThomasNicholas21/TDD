@@ -1,32 +1,26 @@
 
-# Atividade Prática 03 - Test-Driven Development (TDD)
-
-### Acadêmico: Thomas Nicholas Pedrosa Matias  
-**Matrícula:** 2120-657
-
----
-
+# Atividade Prática 03 - Test-Driven Development (TDD) 💻
 ## Objetivo
 
 Esta atividade tem como foco a aplicação do Test-Driven Development (TDD) para desenvolver um algoritmo em Python que calcula a média de três notas. O processo segue as etapas de criação dos testes (Fase Red), implementação do código para satisfazer esses testes (Fase Green) e refatoração do código (Fase Refactor).
 
 ---
 
-## Estrutura do Projeto
+## Estrutura do Projeto 🏗
 
 O projeto está organizado em um repositório com a seguinte estrutura:
 - **Arquivo principal:** `media_calculator.py`, onde o algoritmo é implementado.
 - **Arquivo de testes:** `test_calcula_media.py`, onde os casos de teste para o algoritmo são definidos.
 
-## Tecnologias e Ferramentas
+## Tecnologias e Ferramentas 👩‍💻
 
 - **Linguagem de Programação:** Python
 - **Ferramenta de Teste:** Pytest
 - **Ambiente Virtual:** venv (para isolamento de dependências)
 
-## Etapas do Desenvolvimento
+## Etapas do Desenvolvimento 🎢
 
-1. ### Preparação
+1. ### Preparação 
 
    - Definida a linguagem de programação como Python.
    - Preparação do ambiente de desenvolvimento com a biblioteca `venv` para evitar conflitos de dependências com outros projetos.
@@ -50,7 +44,7 @@ O projeto está organizado em um repositório com a seguinte estrutura:
 
 ---
 
-## Como Executar o Projeto
+## Como Executar o Projeto 📚
 
 1. **Clonar o repositório:**
    ```bash
@@ -77,7 +71,7 @@ O projeto está organizado em um repositório com a seguinte estrutura:
 
 ---
 
-## Considerações
+## Considerações 📙
 
 Este projeto demonstra o uso do TDD em Python com a biblioteca `pytest`, incluindo a importância do isolamento de ambiente com `venv`. Ele oferece uma base sólida para entender a abordagem iterativa do TDD com foco na qualidade e manutenção do código.
 
